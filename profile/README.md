@@ -1,5 +1,11 @@
 ## Hi there 👋
+
+
 <!--
+We can:
+- ruin your day
+- waste your money
+- waste your time
 
 **Here are some ideas to get you started:**
 
